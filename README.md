@@ -1,6 +1,6 @@
 # MA_Git_Console_Application
-A git like console aplication written in java
-Can commit new changes in root folder using delta and SHA-1, create branches
+A git like console aplication written in java.
+Can commit new changes in root folder using delta and SHA-1, create branches.
 
 ## Menu:
 
